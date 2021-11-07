@@ -27,7 +27,7 @@
          "grid":
             {
              "height":1,
-             "orientation":"orthogonal",
+             "orientation":"isometric",
              "width":1
             },
          "margin":0,
